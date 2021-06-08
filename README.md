@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Internships
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Kartik's LinkedIn](www.linkedin.com/in/kartik-jain-420232183)
+- 📫 How to reach me: [Kartik's LinkedIn](https://www.linkedin.com/in/kartik-jain-420232183/)
 
