@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on OpenCV
-- 🌱 I’m currently learning OpenCV
+- 🔭 I’m currently working on Andorid  
+- 🌱 I’m currently learning Data Structure and Algorithms
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Internships
 - 💬 Ask me about Anything
